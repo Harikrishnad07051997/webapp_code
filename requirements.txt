@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymongo
+azure-ai-formrecognizer
+python-dotenv
+requests
+apscheduler
+pytz
+openai
+werkzeug
+aiofiles 
+httpx
+PyMuPDF 
+Pillow
+anthropic
